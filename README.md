@@ -1,6 +1,6 @@
 # Traffic Volume Analysis with Bayes
 
-![Title](github.com/robertdefilippi/traffic-bayes/blob/master/traffic_image.png)
+![Title](https://github.com/robertdefilippi/traffic-bayes/blob/master/traffic_image.png?raw=true)
 
 A short notebook on how to perform analysis using Bayes and monte carlo markov models.
 
